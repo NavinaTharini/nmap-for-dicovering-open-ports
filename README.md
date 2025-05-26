@@ -9,3 +9,7 @@
 
   ```bash
   nmap -T4 -A -v 192.168.20.0/24
+
+  -use wireshark for packet capturing 
+  -Live packets are captured with the help of nmap and use filter as tcp 
+  -download the pcap file and analyse the files 
